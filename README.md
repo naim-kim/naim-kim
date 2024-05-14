@@ -7,13 +7,13 @@ My daily goal is to be a better me than yesterday.
 
 <p><picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=naim-kim&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true&theme=radical"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=naim-kim&show_icons=true"
+    srcset="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=naim-kim&show_icons=true" />
+  <img src="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true" />
 </picture></p>
 
 ### Here's a bit more about me in my major:
@@ -22,7 +22,7 @@ My daily goal is to be a better me than yesterday.
 - 👩‍💻 Enrolled in a online Web Developer course at 'Udemy'
 - 📚 I'm interested in robotic and web development!
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim-kim&layout=compact&show_icons=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&show_icons=true&theme=radical"/>
 </p>
 
 ### Challenge!!!
