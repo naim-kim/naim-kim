@@ -8,13 +8,10 @@
 👋 Hi, I’m @naim-kim, a CS major student based in Korea.
 My daily goal is to be a better me than yesterday.
 
-<p><picture>
-    
-  ![Naim's GitHub stats](https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim\&show_icons=true&theme=radical)
+![Naim's GitHub stats](https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim\&show_icons=true&theme=radical)
     
   <source
-    srcset="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim\&show_icons=true&theme=radical)"
   />
   <img src="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true" />
 </picture></p>
