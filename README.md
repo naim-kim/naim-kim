@@ -9,9 +9,9 @@
 My daily goal is to be a better me than yesterday.
 
 <p><picture>
-  <source
-    srcset="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true&theme=radical"
-  />
+    
+  ![Naim's GitHub stats](https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim\&show_icons=true&theme=radical)
+    
   <source
     srcset="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
@@ -22,8 +22,8 @@ My daily goal is to be a better me than yesterday.
 ### Here's a bit more about me in my major:
 
 - 🌱 Currently learning introductory courses on Java, Data Structures ( implementing CPP ), AI ( python )
-- 👩‍💻 Enrolled in a online Web Developer course at 'Udemy'
-- 📚 I'm interested in robotic and web development!
+- 👩‍💻 Enrolled in an online Web Developer course at 'Udemy'
+- 📚 I'm interested in web development!
 <p>
 <img align="center" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&show_icons=true&theme=radical"/>
 </p>
