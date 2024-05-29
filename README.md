@@ -1,9 +1,7 @@
 <!-- my deployed vercel url for the Github  readme stats 
     https://github-readme-stats-naim-kims-projects.vercel.app/ -->
     
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ## Hello World !!! 👋
 
