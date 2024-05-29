@@ -1,7 +1,9 @@
 <!-- my deployed vercel url for the Github  readme stats 
     https://github-readme-stats-naim-kims-projects.vercel.app/ -->
     
-# About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 ## Hello World !!! 👋
 
