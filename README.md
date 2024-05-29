@@ -3,7 +3,6 @@
     
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
-## Hello World !!! 👋
 
 👋 Hi, I’m @naim-kim, a CS major student based in Korea.
 My daily goal is to be a better me than yesterday.
