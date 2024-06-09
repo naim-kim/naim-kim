@@ -24,7 +24,7 @@ My daily goal is to be a better me than yesterday.
 ### Challenge!!!
 
 Commited to code daily! 💪👨‍💻
-starting from 04/06/2024.
+starting from 04/12/2024.
 
-- 🏃‍♀️ I'll be running +5k for each missed day! (I am uploading evidence on my Instagram) 🏃‍♂
+- 🏃‍♀️ I'll be running +5k for each missed day! (I am uploading proof on my Instagram) 🏃‍♂
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naim-kim&&show_icons=true" /></p>
