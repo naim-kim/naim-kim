@@ -1,32 +1,38 @@
-<!-- my deployed vercel url for the Github  readme stats 
-    https://github-readme-stats-naim-kims-projects.vercel.app/ -->
-    
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+![Snake animation](https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake-dark.svg)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
+<div align="center">
+  👋 Hi, I’m **@naim-kim**, a CS major student based in Korea.
 
-👋 Hi, I’m @naim-kim, a CS major student based in Korea.
+  My daily goal is to be a better me than yesterday.
 
-My daily goal is to be a better me than yesterday.
-    
-<source
-    srcset="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim/&show_icons=true)"
-  />
-  <img src="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true" />
+  <img align="right" src="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true" alt="GitHub Stats" />
 
-### Here's a bit more about me in my major:
+</div>
 
-- 🌱 Currently learning introductory courses on Java, Data Structures ( implementing CPP ), AI ( python )
+  ### Challenge!!!
+  - 💪 Committed to code daily!
+  - 🏃‍♀️ I'll be running +5k for each missed day! (Proof posted on my Instagram)
+
+<br><br>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naim-kim&show_icons=true" alt="GitHub Streak" />
+
+  <br>
+
+ 
+
+### 🛠️ Skills 🛠️ 
+  <img src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&show_icons=true" alt="Top Languages" />
+
+  <br>
+
+  ### 🏆 Baekjoon Rank 🏆
+  <a href="https://solved.ac/naimkim/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" alt="Baekjoon Profile" />
+  </a>
 
   
-<p>
-<img align="center" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&show_icons=true"/>
-</p>
 
-### Challenge!!!
 
-Committed to code daily! 💪👨‍💻
-
-- 🏃‍♀️ I'll be running +5k for each missed day!
-- (I am uploading proof on my Instagram) 🏃‍♂
-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naim-kim&&show_icons=true" /></p>
+</div>
