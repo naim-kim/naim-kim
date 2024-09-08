@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/naim-kim/naim-kim/blob/output/github-contribution-grid-snake.svg)
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <div align="center">
