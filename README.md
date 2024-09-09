@@ -33,9 +33,7 @@
   <br>
 
   ### 🏆 Baekjoon Rank 🏆
-  <a href="https://solved.ac/naimkim/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" alt="Baekjoon Profile" />
-  </a>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim)](https://solved.ac/naimkim/)
 
   
 
