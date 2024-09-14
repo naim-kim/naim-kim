@@ -25,7 +25,7 @@
 
   <br>
 
- <a href="https://solved.ac/naim-kim/">
+ <a href="https://solved.ac/profile/naimkim">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naim-kim" width="390" alt="Solved.ac Profile">
 
 ### 🛠️ Skills 🛠️ 
