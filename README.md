@@ -25,12 +25,14 @@
 
   <br>
 
- 
+ <a href="https://solved.ac/naim-kim/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naim-kim" width="390" alt="Solved.ac Profile">
 
 ### 🛠️ Skills 🛠️ 
   <img src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&show_icons=true" alt="Top Languages" />
 
   <br>
+  
 
 
 
