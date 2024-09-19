@@ -1,39 +1,49 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naim-kim.naim-kim" />
+<br/>
+
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+
+<h3 align="center">Challenge Accepted!🔥</h3>
+<div align="center">
+ 
+ 💪 **Committed to code daily!**  
+ 🏃‍♀️ I'll be running **+5k for each missed day!** (Proof posted on my [Instagram](https://www.instagram.com/im_isn.tme))
+ </div>
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+<table align="center">
+  <tr>
+    <td>
+      <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=naim-kim&show_icons=true" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+      <img width="390" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&show_icons=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://solved.ac/profile/naimkim">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=naim-kim&theme=react-dark" alt="GitHub Contribution Graph" />
+    </td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+<h2 align="center">🛠️ Skills 🛠️</h2>
 
 <div align="center">
-  👋 Hi, I’m **@naim-kim**, a CS major student based in Korea.
-
-  My daily goal is to be a better me than yesterday.
-
-  <img align="right" src="https://github-readme-stats-naim-kims-projects.vercel.app/api?username=naim-kim&show_icons=true" alt="GitHub Stats" />
-
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,dart,spring,mysql,git,aws,postman" alt="Skill Icons" />
 </div>
 
-  ### Challenge!!!
-  - 💪 Committed to code daily!
-  - 🏃‍♀️ I'll be running +5k for each missed day! (Proof posted on my Instagram)
-
-<br><br>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naim-kim&show_icons=true" alt="GitHub Streak" />
-
-  <br>
-
- <a href="https://solved.ac/profile/naimkim">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naim-kim" width="390" alt="Solved.ac Profile">
-
-### 🛠️ Skills 🛠️ 
-  <img src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&show_icons=true" alt="Top Languages" />
-
-  <br>
-  
-
-
-
-</div>
