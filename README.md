@@ -18,14 +18,17 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=naim-kim&show_icons=true" alt="GitHub Streak" />
-    </td>
-    <td align="center">
-      <img width="390" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&show_icons=true" alt="Top Languages" />
-    </td>
+   <td>
+     <img width="390" src="https://github-readme-stats.vercel.app/api?username=naim-kim&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
+   </td>
+   <td>
+     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=naim-kim&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+   </td>
   </tr>
   <tr>
+    <td align="center">
+      <img width="390" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&theme=highcontrast&show_icons=true&hide_border=true" alt="Top Languages" />
+    </td>
     <td>
       <a href="https://solved.ac/profile/naimkim">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
@@ -34,10 +37,8 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=naim-kim&theme=react-dark" alt="GitHub Contribution Graph" />
-    </td>
-  </tr>
-  <tr>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naim-kim&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</td>
   </tr>
 </table>
 
