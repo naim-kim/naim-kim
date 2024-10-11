@@ -45,6 +45,6 @@
 <h2 align="center">🛠️ Skills 🛠️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,dart,spring,mysql,git,aws,postman" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,python,dart,spring,mysql,git,postman" alt="Skill Icons" />
 </div>
 
