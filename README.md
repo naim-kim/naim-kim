@@ -2,13 +2,6 @@
 <br/>
 
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
-
-<h3 align="center">Challenge Accepted!🔥</h3>
-<div align="center">
- 
- 💪 **Committed to code daily!**  
- 🏃‍♀️ I'll be running **+5k for each missed day!** (Proof posted on my [Instagram](https://www.instagram.com/im_isn.tme))
- </div>
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake-dark.svg">
