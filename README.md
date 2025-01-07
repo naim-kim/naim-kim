@@ -15,7 +15,7 @@
      <img width="390" src="https://github-readme-stats.vercel.app/api?username=naim-kim&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
    </td>
    <td>
-     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=naim-kim&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=naim-kim&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
    </td>
   </tr>
   <tr>
