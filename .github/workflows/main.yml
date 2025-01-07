@@ -27,7 +27,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          color_snake: "#00FFFF"  # Cyan Snake
+          color_snake: "#0000FF"  # Blue Snake
           color_dots: "#0000FF"  # Blue Dots
 
       # Push the generated SVG to the output branch
