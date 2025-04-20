@@ -24,8 +24,12 @@
   </tr>
   <tr>
     <td align="center">
-     <h2 align="center">💙 Skills 💙</h2>
-      <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,python,dart,spring,mysql,git,postman" alt="Skill Icons" />
+     <h3 align="center">💙 Tech Stack 💙</h3>
+      <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,dart,spring,mysql" alt="Skill Icons" />
+      <h3 align="center">💙 Studying 💙</h3>
+      <img src="https://skillicons.dev/icons?i=typescript,nodejs,java,spring,mysql" alt="Skill Icons" />
+      <h3 align="center">💙 Tools 💙</h3>
+      <img src="https://skillicons.dev/icons?i=github,figma,notion,git,postman" alt="Skill Icons" />
     </td>
     <td>
     
