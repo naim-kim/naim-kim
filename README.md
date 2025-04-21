@@ -1,17 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naim-kim.naim-kim" />
 <br/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=Backend+Dev+in+the+Making+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=Backend+Dev+in+the+Making+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 <table align="center">
   <tr>
