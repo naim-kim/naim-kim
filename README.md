@@ -26,12 +26,14 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
       </a>
   </tr>
+  </table>
+  <table>
   <tr>
     <td align="center">
      <h3 align="center">💙 Tech Stack 💙</h3>
       <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,dart,spring,mysql" alt="Skill Icons" />
       </td>
-      <td>
+      <td align="center">
       <h3 align="center">💙 Studying 💙</h3>
       <img src="https://skillicons.dev/icons?i=typescript,nodejs,java,spring,mysql" alt="Skill Icons" />
       </td>
