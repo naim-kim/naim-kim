@@ -21,21 +21,21 @@
    <td align="center">
     <img width="390" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&theme=transparent&show_icons=true&hide_border=true" alt="Top Languages" />
    </td>
+   <td>
+   <a href="https://solved.ac/profile/naimkim">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
+      </a>
   </tr>
   <tr>
     <td align="center">
      <h3 align="center">💙 Tech Stack 💙</h3>
       <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,dart,spring,mysql" alt="Skill Icons" />
+      </td>
+      <td>
       <h3 align="center">💙 Studying 💙</h3>
       <img src="https://skillicons.dev/icons?i=typescript,nodejs,java,spring,mysql" alt="Skill Icons" />
-    </td>
-    <td>
-    
-  <div align="center">
-    
- <a href="https://solved.ac/profile/naimkim">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
-      </a>
+      </td>
+ 
 </div>
     </td>
   </tr>
