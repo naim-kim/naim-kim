@@ -12,7 +12,7 @@
       <img width="390" src="https://github-readme-stats.vercel.app/api?username=naim-kim&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img width="390" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&theme=transparent&show_icons=true&hide_border=true" alt="Top Languages" />
+      <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim-kim&layout=compact&theme=transparent&show_icons=true&hide_border=true" alt="Top Languages" />
     </td>
     <td>
       <a href="https://solved.ac/profile/naimkim">
