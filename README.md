@@ -1,3 +1,4 @@
+<!-- Snake animation -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake-dark.svg">
@@ -6,7 +7,9 @@
 </picture>
  </div>
 
-<h3>&nbsp; [ Tech Stack ] </h3>
+
+<!-- Tech Stack -->
+<h3>💻 Tech Stack</h3>
 
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;🖼️ Frontend:&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -25,6 +28,20 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Projects -->
+<h3>🗂️ Projects</h3>
+...
+
+<br/><br/>
+
+<!-- Projects -->
+<h3>🏆 Achievements</h3>
+...
+
+
 
 <br/><br/>
 
