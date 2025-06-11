@@ -6,35 +6,13 @@
 </picture>
  </div>
 
- </br>
-
-<div align="center">
+ <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=Backend+Dev+in+the+Making+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
-<table align="center">
-  <tr>
-   <td align="left">
-     <img width="390" src="https://github-readme-stats.vercel.app/api?username=naim-kim&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" />
-   </td>
-   <td align="center">
-    <img width="390" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&theme=transparent&show_icons=true&hide_border=true" alt="Top Languages" />
-   </td>
-   <td>
-   <a href="https://solved.ac/profile/naimkim">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
-      </a>
-  </tr>
-  </table>
-
----
-
-  <table>
-  <tr>
-    <td align="left">
-      <h3>&nbsp; [ Tech Stack ] </h3>
+<h3>&nbsp; [ Tech Stack ] </h3>
 
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;🖼️ Frontend:&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
@@ -58,14 +36,19 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-</td>
- 
-</div>
-    </td>
-  </tr>
+<br/><br/>
+
+<table align="center">
   <tr>
-    <td colspan="2" align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naim-kim&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</td>
+   <td align="left">
+     <img width="390" src="https://github-readme-stats.vercel.app/api?username=naim-kim&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" />
+   </td>
+   <td align="center">
+    <img width="390" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&theme=transparent&show_icons=true&hide_border=true" alt="Top Languages" />
+   </td>
+   <td>
+   <a href="https://solved.ac/profile/naimkim">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
+      </a>
   </tr>
-</table>
+  </table>
