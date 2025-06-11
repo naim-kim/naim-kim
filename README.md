@@ -7,43 +7,49 @@
 </picture>
  </div>
 
+<br/>
 
 <!-- Tech Stack -->
 <h3>💻 Tech Stack</h3>
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;🖼️ Frontend:&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Frontend:&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Backend:&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Backend:&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>[
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;📚 Other Languages:&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Other Languages:&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br/><br/>
 
+<!-- Timeline -->
+<h3>📌 Timeline </h3>
+2020.09 - 2021.12 | SLE : HGU csee club | main role: c-program tutoring<br/>
+2024.09 - 2025.09 | <a href="https://we-pard.com/" target="_blank">PARD</a> : Server Dev Part | main role: server-part leader<br/>
+2024.12 - ongoing | <a href="https://github.com/HGU-WALAB" target="_blank">WALAB</a> : HGU Web Application Lab<br/>
+
+
 <!-- Projects -->
 <h3>🗂️ Projects</h3>
-...
+2024.08 - ongoing | <a href="https://github.com/HandongRoot" target="_blank">ROOT</a> : link archive app | as front-end dev<br/>
+2024.12 - 2025.01 | <a href="https://github.com/Club-PARD/AESPArd_BE" target="_blank">PREE</a> : presentation feedback app | as back-end dev<br/>
+2025.04 - 2025.06 | <a href="https://github.com/naim-kim/tayo_BE/" target="_blank">GachiTayo(같이타요)</a> : HGU targeted carpool app | as full-stack dev<br/>
 
-<br/><br/>
-
-<!-- Projects -->
+<!-- Achievemnets -->
 <h3>🏆 Achievements</h3>
-...
+2025.01 | <a href="https://we-pard.com/Project/20" target="_blank">Long Hack-a-ton</a> | 대상 | <br/>
 
-
-
-<br/><br/>
+<br/>
 
 <table align="center">
   <tr>
