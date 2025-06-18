@@ -53,6 +53,7 @@
 
 <h3>🗂️ Projects</h3>
 <ul>
+  <li>2021.03 - 2021.09 | Campus Tour — Campus 2D tour-gamefied | Unity(C#) </li>
   <li>2024.08 - Ongoing | <a href="https://github.com/HandongRoot">ROOT</a> — Link archive app | <strong>Role:</strong> Frontend Developer</li>
   <li>2024.12 - 2025.01 | <a href="https://github.com/Club-PARD/AESPArd_BE">PREE</a> — Presentation feedback app | <strong>Role:</strong> Backend Developer</li>
   <li>2025.04 - 2025.06 | <a href="https://github.com/naim-kim/tayo_BE/">GachiTayo (같이타요)</a> — HGU-targeted carpool app | <strong>Role:</strong> Full Stack Developer</li>
