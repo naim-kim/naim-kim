@@ -116,11 +116,10 @@
 
 ---
 
-<h3>📌 What I'm Focusing On</h3>
+<h3>📌 What I'm Currently Working On</h3>
 <ul>
-  >Deepening backend skills with Spring Boot (security, testing, and cleaner architectures).</li>
-  >Designing and operating small services on AWS (EC2, RDS, S3, simple CI/CD).</li>
-  >Improving team development: code reviews, Git branching strategies, and documentation.</li>
-  >Preparing for internships by polishing project READMEs and adding more realistic features.</li>
+  <li>Refactoring our school's website: cleaner Spring Boot code, MariaDB optimization, Tomcat server deployment, and adding proper security.</li>
+  <li>Building a full-stack app end-to-end (Spring Boot backend + Flutter frontend).</li>
+  <li>Deepening Spring Boot skills: advanced security, testing, and production-ready patterns.</li>
+  <li>Actively preparing for internships - polishing projects and building my portfolio.
 </ul>
-
