@@ -12,114 +12,173 @@
 <div align="center">
   <h1>Hi, I'm Naim 👋</h1>
   <p>
-    Backend-focused developer building scalable, user-centered web applications.<br/>
-    CS student at Handong Global University, working with Spring Boot, MySQL, and AWS in real projects.
+    Backend-focused developer building scalable APIs and real-world applications.<br/>
+    CS student at Handong Global University with experience in Spring Boot, MySQL, AWS, and Flutter.
   </p>
-  <!-- Add your links -->
+
   <p>
-    <a href="mailto:naimk54541@gmail.com"><img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square"></a>
-    <a href="https://www.linkedin.com/in/naim-kim-6a02b0335/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square"></a>
-     <!--<a href="https://your-blog-or-portfolio"><img src="https://img.shields.io/badge/Blog-portfolio-lightgrey?style=flat-square"></a>-->
+    <a href="mailto:naimk54541@gmail.com">
+      <img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square">
+    </a>
+    <a href="https://www.linkedin.com/in/naim-kim-6a02b0335/">
+      <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square">
+    </a>
   </p>
 </div>
 
 ---
 
-<h3>👤 About Me</h3>
-<p>
-  I enjoy designing REST APIs, modeling data, and deploying services to the cloud.<br/>
-  Recently, I've been focusing on building team projects with clean architecture, authentication/authorization, and production-ready deployments.
-</p>
+# 👤 About Me
+
+I enjoy building backend systems that are reliable, scalable, and used by real users.
+
+My main interests include:
+
+• REST API design and backend architecture  
+• Database schema design and optimization  
+• Authentication and security (JWT, OAuth)  
+• Cloud deployment and system maintenance  
+
+Through team projects and university systems, I have built and maintained applications used by real users, including mobile apps and backend services.
 
 ---
 
----
+# 🛠 Tech Stack
 
-<h3>🛠️ Tech Stack</h3>
+### Backend
+• Java  
+• Spring Boot  
+• REST API development  
+• JPA / Hibernate  
 
-<!-- Core backend -->
-<p><strong>Core Backend:</strong><br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white" alt="JPA"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</p>
+### Database
+• MySQL  
+• Relational schema design  
+• Query optimization  
 
-<!-- Infra & DevOps -->
-<p><strong>Infra & DevOps:</strong><br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+### Infrastructure
+• AWS EC2  
+• Docker  
+• Linux server deployment  
 
-<!-- Frontend & Mobile -->
-<p><strong>Frontend & Mobile:</strong><br/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-</p>
+### Mobile / Frontend
+• Flutter  
+• Firebase  
 
 ---
 
-<h3>📅 Experience & Activities</h3>
-<ul>
-  <li>2020.09 - 2021.12 | SLE (HGU CSEE Club) — <strong>Role:</strong> C Programming Tutor</li>
-  <li>2024.09 - 2025.09 | <a href="https://we-pard.com/">PARD</a> — <strong>Server Part Leader</strong></li>
-  <li>2024.12 - Ongoing | <a href="https://github.com/HGU-WALAB">WALAB</a> (HGU Web Application Lab)</li>
-</ul>
+# ⚙️ Engineering Experience
+
+• Designing REST APIs using Spring Boot  
+• Mobile-backend API integration using Flutter  
+• State management using Provider and GetX  
+• Relational database design using MySQL  
+• Authentication systems using JWT and OAuth  
+• Backend refactoring and maintenance of production systems  
+• Deploying and managing applications on AWS  
 
 ---
 
-<h3>🗂️ Selected Projects</h3>
-<ul>
-  <li>
-    2021.03 - 2021.09 | <strong>Campus Tour</strong> — Campus 2D tour, gamified experience | Unity (C#)
-  </li>
-  <li>
-    2024.08 - Ongoing | <a href="https://github.com/HandongRoot"><strong>ROOT</strong></a> — Link archive app |
-    <strong>Role:</strong> Frontend Developer (Flutter)
-  </li>
-  <li>
-    2024.12 - 2025.01 | <a href="https://github.com/Club-PARD/AESPArd_BE"><strong>PREE</strong></a> — Presentation feedback app |
-    <strong>Role:</strong> Backend Developer (Spring Boot, MySQL, JWT, AWS)
-  </li>
-  <li>
-    2025.04 - 2025.06 | <a href="https://github.com/naim-kim/tayo_BE/"><strong>GachiTayo (같이타요)</strong></a> — HGU-targeted carpool app |
-    <strong>Role:</strong> Full Stack Developer (Spring Boot, Flutter, AWS)
-  </li>
-</ul>
+# ⭐ Featured Projects
+
+## ROOT — Link Vault Mobile App
+
+Mobile application that allows users to collect and organize links from multiple social media platforms and websites.
+
+**Tech**  
+Flutter, REST API
+
+**Role**  
+Frontend Developer
+
+**Key Contributions**
+
+• Built modular Flutter architecture with clean feature-based folder structure  
+• Implemented state management using Provider and GetX  
+• Integrated backend APIs for content management and authentication  
+• Collaborated with backend developers on relational design for content and folder systems  
+• Successfully deployed application to the **Apple App Store**  
+• Achieved **100+ downloads** with active users
 
 ---
 
-<h3>🏆 Achievements</h3>
-<ul>
-  <li>2025.01 | <a href="https://we-pard.com/Project/20">Long Hack-a-ton</a> — <strong>Grand Prize (대상)</strong></li>
-</ul>
+## Tremor / Alzheimer Early Screening App
 
----
-<!--<td align="left">
-      <img width="390" src="https://github-readme-stats.vercel.app/api?username=naim-kim&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-<!-- Stats and solved.ac -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="390" src="https://github-readme-stats-naim-kims-projects.vercel.app/api/top-langs/?username=naim-kim&layout=compact&theme=transparent&show_icons=true&hide_border=true" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <a href="https://solved.ac/profile/naimkim">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
-      </a>
-    </td>
-  </tr>
-</table>
+Mobile application designed to support early neurological screening using drawing-based diagnostic tests.
+
+**Tech**  
+Spring Boot, Flutter, MySQL
+
+**Role**  
+Full-Stack Developer
+
+**Key Contributions**
+
+• Designed backend REST API using Spring Boot  
+• Built Flutter mobile client for patient interaction and testing  
+• Implemented drawing capture system collecting **(x, y, time) coordinate data**  
+• Developed scoring pipeline to analyze tremor and drawing patterns  
+• System being prepared for **clinical testing with patients under Eulji University medical research**
 
 ---
 
-<h3>📌 What I'm Currently Working On</h3>
-<ul>
-  <li>Refactoring our school's website: cleaner Spring Boot code, MariaDB optimization, Tomcat server deployment, and adding proper security.</li>
-  <li>Building a full-stack app end-to-end (Spring Boot backend + Flutter frontend).</li>
-  <li>Deepening Spring Boot skills: advanced security, testing, and production-ready patterns.</li>
-  <li>Actively preparing for internships - polishing projects and building my portfolio.
-</ul>
+## University CS Mileage System
+
+Academic management platform used by Handong Global University CS students.
+
+**Tech**  
+Spring Boot, MySQL
+
+**Role**  
+Backend Developer / System Refactoring
+
+**Work**
+
+• Maintaining backend system used by **100+ CS students**  
+• Refactoring legacy backend code to improve maintainability  
+• Improving authentication and token security  
+• Implementing OAuth-based authentication and token protection  
+• Planning rate limiting and automated tests for improved reliability
+
+---
+
+# 🚀 Systems Impact
+
+• Deployed mobile application to **Apple App Store**  
+• Built systems used by **100+ university students**  
+• Developing medical screening prototype for **real clinical testing**  
+• Experience building systems across **mobile, backend, and database layers**
+
+---
+
+# 📅 Experience & Activities
+
+• 2020.09 - 2021.12 | SLE (HGU CSEE Club) — C Programming Tutor  
+• 2024.09 - 2025.09 | PARD — Server Part Leader  
+• 2024.12 - Present | WALAB (Web Application Lab)
+
+---
+
+# 🧠 Problem Solving
+
+• Solved 250+ algorithm problems on Baekjoon  
+• Practicing data structures and algorithms regularly
+
+<a href="https://solved.ac/profile/naimkim">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
+</a>
+
+---
+
+# 🏆 Achievements
+
+• 2025 | PARD Long Hackathon — **Grand Prize (대상)**
+
+---
+
+# 📌 Currently Learning
+
+• Advanced Spring Security  
+• Backend testing with JUnit  
+• Scalable backend architecture patterns  
+• Production-ready backend design
