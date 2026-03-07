@@ -20,7 +20,7 @@
     <a href="mailto:naimk54541@gmail.com">
       <img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square">
     </a>
-    <a href="https://www.linkedin.com/in/naim-kim-6a02b0335/">
+    <a href="https://www.linkedin.com/in/naim-kim-cs/">
       <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square">
     </a>
   </p>
