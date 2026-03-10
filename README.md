@@ -46,24 +46,16 @@ Through team projects and university systems, I have built and maintained applic
 # 🛠 Tech Stack
 
 ### Backend
-• Java  
-• Spring Boot  
-• REST API development  
-• JPA / Hibernate  
+Java, Spring Boot, REST API development, JPA / Hibernate  
 
 ### Database
-• MySQL  
-• Relational schema design  
-• Query optimization  
+MySQL,  Relational schema design, Query optimization  
 
 ### Infrastructure
-• AWS EC2  
-• Docker  
-• Linux server deployment  
+AWS EC2, Docker  
 
 ### Mobile / Frontend
-• Flutter  
-• Firebase  
+• Flutter, Firebase  
 
 ---
 
