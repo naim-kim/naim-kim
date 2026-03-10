@@ -151,17 +151,6 @@ Backend Developer / System Refactoring
 
 ---
 
-# 🧠 Problem Solving
-
-• Solved 250+ algorithm problems on Baekjoon  
-• Practicing data structures and algorithms regularly
-
-<a href="https://solved.ac/profile/naimkim">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=naimkim" width="390" alt="Solved.ac Profile">
-</a>
-
----
-
 # 🏆 Achievements
 
 • 2025 | PARD Long Hackathon — **Grand Prize (대상)**
