@@ -6,7 +6,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake.svg">
   </picture>
-
   <p>
     Backend-focused developer building practical and reliable systems.<br/>
     CS student at Handong Global University.
@@ -20,10 +19,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square">
     </a>
   </p>
-  
 </div>
 
----
 
 ## 👤 About Me
 
