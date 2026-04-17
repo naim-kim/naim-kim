@@ -22,12 +22,6 @@
 </div>
 
 
-## 👤 About Me
-
-Backend developer interested in building reliable and scalable systems.
-
----
-
 ## 🛠 Tech Stack
 
 **Backend**  
