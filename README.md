@@ -60,17 +60,4 @@ Flutter, Firebase
 - Backend system used by 100+ university students  
 - Refactored legacy code for maintainability  
 - Improved authentication (OAuth, token security)  
-
----
-
-## 📅 Activities
-
-- C Programming Tutor (SLE)  
-- Server Part Leader (PARD)  
-- WALAB (Web Application Lab)  
-
----
-
-## 🏆 Achievement
-
-- PARD Hackathon 2025 — **Grand Prize**   
+ 
