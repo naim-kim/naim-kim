@@ -1,15 +1,14 @@
 <div align="center">
-  <h1>Hi, I'm Naim 👋</h1>
-  <!-- Snake animation -->
+  <h1>Hi, I'm Naim 👋</h1>  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/naim-kim/naim-kim/output/github-contribution-grid-snake.svg">
   </picture>
-  <p>
-    Backend-focused developer building practical and reliable systems.<br/>
-    CS student at Handong Global University.
-  </p>
+
+ <p>
+  Backend developer interested in backend systems, performance optimization, and service reliability.
+</p>
 
   <p>
     <a href="mailto:naimk54541@gmail.com">
@@ -21,43 +20,24 @@
   </p>
 </div>
 
+---
 
 ## 🛠 Tech Stack
 
 **Backend**  
-Java, Spring Boot, JPA / Hibernate  
+Java • Spring Boot • JPA • REST API
 
 **Database**  
-MySQL  
+MySQL
 
-**Infrastructure**  
-AWS EC2, Docker  
+**Infra**  
+AWS • Docker • Render
 
-**Mobile**  
-Flutter, Firebase  
-
----
-
-## ⭐ Projects
-
-### ROOT — Link Vault App
-- Flutter-based mobile app for organizing links  
-- Built modular architecture (Provider, GetX)  
-- Integrated backend APIs  
-- Deployed to App Store (100+ downloads)  
+**Collaboration**  
+Git • GitHub • Notion • Jira
 
 ---
 
-### Tremor / Alzheimer Screening App
-- Full-stack app for early neurological screening  
-- Built REST API (Spring Boot) and mobile client (Flutter)  
-- Implemented drawing data capture (x, y, time)  
-- Developing analysis pipeline for clinical testing  
+## 📌 Interests
 
----
-
-### CS Mileage System
-- Backend system used by 100+ university students  
-- Refactored legacy code for maintainability  
-- Improved authentication (OAuth, token security)  
- 
+Backend Architecture • Performance Optimization • DevOps
